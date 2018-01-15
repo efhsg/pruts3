@@ -91,4 +91,6 @@ public class BijlesplanningAdapter extends BaseExpandableListAdapter {
     public boolean isChildSelectable(int i, int i1) {
         return true;
     }
+
+
 }

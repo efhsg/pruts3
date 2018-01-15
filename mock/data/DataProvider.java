@@ -25,7 +25,7 @@ public class DataProvider {
 
         headerDetails.put("december 2017", childDetails1);
         headerDetails.put("januari 2018", childDetails2);
-        headerDetails.put("zebruari 2018", childDetails3);
+        headerDetails.put("februari 2018", childDetails3);
 
         return headerDetails;
 
